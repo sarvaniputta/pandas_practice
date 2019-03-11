@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+baseballdatabank-2019.2/
+names/
+
+*.csv
+*.zip
